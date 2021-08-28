@@ -22,6 +22,7 @@
 ### Github stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rilled&langs_count=9&layout=compact&hide=css&theme=cobalt)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rilled&show_icons=true&count_private=true&theme=cobalt)
 
 ![Profile views](https://gpvc.arturio.dev/rilled)
