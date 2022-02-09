@@ -16,6 +16,7 @@
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%23008FBA.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -27,4 +28,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/rilled)
 
-Thanks to (https://https://github.com/bensuperpc) for their readme design.
+Thanks to (https://github.com/bensuperpc) for their readme design.
