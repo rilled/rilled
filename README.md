@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @rilled, a student who wants to learn code and make the world a bit better
 - 👀 I’m interested in Docker-based projects & Linux customization
-- 🌱 I’m currently learning **Bash scripting** & **AWS Infrastructure**
+- 🌱 I’m currently learning **Bash scripting**, **Python Web Services** & **Microsoft Azure**
 - ✨ This account is under construction :)
 
 ### OS Proficiency
