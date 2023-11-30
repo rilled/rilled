@@ -1,8 +1,8 @@
 ### rilled
 
-- 👋 Hi, I’m @rilled, a student who wants to learn code and make the world a bit better
+- 👋 Hi, I’m @rilled
 - 👀 I’m interested in Docker-based projects & Linux customization
-- 🌱 I’m currently learning **Bash scripting**, **Python Web Services** & **Microsoft Azure**
+- 🌱 I’m currently learning **Entra**, **PowerShell** & **Azure**
 - ✨ This account is under construction :)
 
 ### OS Proficiency
